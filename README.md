@@ -1,4 +1,4 @@
 # new-python
 demo
 <br>
-author - wahab
+author - wahabkt
